@@ -51,7 +51,10 @@ Here are some ideas to get you started:
 </details>
 
 </br>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rohanvp07.Rohanvp07)
+
 [![Github](https://img.shields.io/github/followers/Rohanvp07?label=Follow&style=social)](https://github.com/Rohanvp07)
+
 </br>
 
