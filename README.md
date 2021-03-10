@@ -1,11 +1,11 @@
-### Hi there, Rohan here
+### Hi there, I'm Rohan!
 
 <!--
 **Rohanvp07/Rohanvp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently pursuing on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 🎓 I’m currently pursuing Masters in Big Data Analytics from St. Xavier's College, Mumbai.
+* 🌱 I'm currently learning from Coursera, udemy and Kaggle.
+* 💻 I'm looking for an internship in Machine Learning & Data Analysis domain.
+* 🎯 Goal (2021): Contribute openly to Data Science and Machine Learning community.
+* 📌 Scroll down to see my Pinned Repositories.
