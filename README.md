@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * 🎓 I’m currently pursuing Masters in Big Data Analytics from St. Xavier's College, Mumbai.
-* 🌱 I'm currently learning from Coursera, udemy and Kaggle.
+* 🌱 I'm currently learning from Coursera, Udemy and Kaggle.
 * 💻 I'm looking for an internship in Machine Learning & Data Analysis domain.
 * 🎯 Goal (2021): Contribute openly to Data Science and Machine Learning community.
 * 📌 Scroll down to see my Pinned Repositories.
