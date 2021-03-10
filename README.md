@@ -42,4 +42,10 @@ Here are some ideas to get you started:
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rohanvp07.Rohanvp07)
+</br>
+[![Github](https://img.shields.io/github/followers/Rohanvp07?label=Follow&style=social)](https://github.com/Rohanvp07)
+</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohanvp07&show_icons=true&theme=tokyonight)
+</br>
+
 
